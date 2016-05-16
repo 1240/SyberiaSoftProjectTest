@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SyberiaSoftProjectTest</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="pref_header_general">General</string>
+    <string name="pref_automatic_swipe">Автоматическая смена картинок</string>
+    <string name="pref_timeout">Интервал смены картинок в сек</string>
+    <string name="pref_change_animation">Переключение видов анимации</string>
+    <string name="pref_random">Показывать случайно</string>
+    <string name="pref_all_or_favorites">Показывать избранные</string>
+
+</resources>
